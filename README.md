@@ -29,7 +29,8 @@ Follow instruction:
 
 If preparation set up correct then you will see a console output
 <details><summary>Click to expand</summary>
-<img width="798" alt="Screenshot 2022-11-14 at 21 21 30" src="https://user-images.githubusercontent.com/30076130/201684827-20ad6216-97e5-42e6-9aaf-c02df34b5a67.png">
+[<img width="798" alt="Screenshot 2022-11-14 at 21 21 30" src="https://user-images.githubusercontent.com/30076130/201684827-20ad6216-97e5-42e6-9aaf-c02df34b5a67.png">](https://user-images.githubusercontent.com/43611621/204952748-0943579c-3f08-4e6c-973d-a4a45a31ed75.mp4)
+   <img width="818" alt="shrine test passed" src="https://user-images.githubusercontent.com/43611621/204951965-ff080e51-8091-4947-8e47-2ab6b6483afb.png">
 </details>
 <p>
 
