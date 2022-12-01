@@ -28,8 +28,8 @@ Follow instruction:
   > mvn clean test -Dtest=shrine.java (command to run this automation test)
 
 If preparation set up correct then you will see a console output
-<details><summary>Click to expand</summary>
-[<img width="818" alt="shrine test passed" src="https://user-images.githubusercontent.com/43611621/204951965-ff080e51-8091-4947-8e47-2ab6b6483afb.png">]
+<details><summary>Click to see result</summary>
+<img width="818" alt="shrine test passed" src="https://user-images.githubusercontent.com/43611621/204951965-ff080e51-8091-4947-8e47-2ab6b6483afb.png">
    (https://user-images.githubusercontent.com/43611621/204952748-0943579c-3f08-4e6c-973d-a4a45a31ed75.mp4)
 </details>
 <p>
